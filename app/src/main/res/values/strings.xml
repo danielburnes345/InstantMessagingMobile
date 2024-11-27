@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Examen_02_DRB</string>
+
+    <string name="creditos">Créditos</string>
+    <string name="salir">Salir</string>
+    <string name="enviar">">"</string>
+    <string name="test">Test</string>
+    <string name="nombre">Daniel Rodriguez Burnes</string>
+    <string name="grupo">7CM1</string>
+    <string name="email">rodriguezburnesdaniel@gmail.com</string>
+    <string name="regresar">Regresar</string>
+</resources>
